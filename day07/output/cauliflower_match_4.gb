@@ -1,0 +1,48 @@
+LOCUS       WP_205449200             317 aa            linear   BCT 24-DEC-2023
+DEFINITION  viroplasmin family protein [Clostridium botulinum].
+ACCESSION   WP_205449200
+VERSION     WP_205449200.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridium botulinum
+  ORGANISM  Clostridium botulinum
+            Bacteria; Bacillota; Clostridia; Eubacteriales; Clostridiaceae;
+            Clostridium.
+REFERENCE   1  (residues 1 to 317)
+  AUTHORS   Wintermantel,W.M., Anderson,E.J. and Schoelz,J.E.
+  TITLE     Identification of domains within gene VI of cauliflower mosaic
+            virus that influence systemic infection of Nicotiana bigelovii in a
+            light-dependent manner
+  JOURNAL   Virology 196 (2), 789-798 (1993)
+   PUBMED   8372449
+REFERENCE   2  (residues 1 to 317)
+  AUTHORS   Volovitch,M., Modjtahedi,N., Chouikh,Y. and Yot,P.
+  TITLE     DNA sequence of gene VI of cauliflower mosaic virus strain PV147
+  JOURNAL   Nucleic Acids Res 18 (17), 5297 (1990)
+   PUBMED   2402462
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013826.4
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01693.20
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..317
+                     /organism="Clostridium botulinum"
+                     /db_xref="taxon:1491"
+     Protein         1..317
+                     /product="viroplasmin family protein"
+                     /calculated_mol_wt=36403
+ORIGIN      
+        1 mgkkfyaike gfdfkknekv edkivdtwve clkyvkgvkn akyksftdii qakeflnnkn
+       61 nliskldgky pndclhiyvd gsynictsqy sygvvvvkdn iveyidsgvg knnpdnnirq
+      121 iagelkgaik gveyalscge kkvvifhdya gicyhatgaw erkeesskay ykrmqelmnn
+      181 gievifvkvd shtgdffnel adekckealg iksdkvvekw ikknvvkvkn eelksniegl
+      241 isnyfdniri vndksnidnf knedinmnev niiedkneni ineykidkvk grklisklls
+      301 kqkeemilyl lenkcnl
+//
+

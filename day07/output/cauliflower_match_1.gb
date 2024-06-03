@@ -1,0 +1,70 @@
+LOCUS       WP_070102678             576 aa            linear   BCT 30-MAY-2024
+DEFINITION  MULTISPECIES: viroplasmin family protein [Clostridia].
+ACCESSION   WP_070102678
+VERSION     WP_070102678.1
+KEYWORDS    RefSeq.
+SOURCE      Clostridia
+  ORGANISM  Clostridia
+            Bacteria; Bacillota.
+REFERENCE   1  (residues 1 to 576)
+  AUTHORS   Wintermantel,W.M., Anderson,E.J. and Schoelz,J.E.
+  TITLE     Identification of domains within gene VI of cauliflower mosaic
+            virus that influence systemic infection of Nicotiana bigelovii in a
+            light-dependent manner
+  JOURNAL   Virology 196 (2), 789-798 (1993)
+   PUBMED   8372449
+REFERENCE   2  (residues 1 to 576)
+  AUTHORS   Volovitch,M., Modjtahedi,N., Chouikh,Y. and Yot,P.
+  TITLE     DNA sequence of gene VI of cauliflower mosaic virus strain PV147
+  JOURNAL   Nucleic Acids Res 18 (17), 5297 (1990)
+   PUBMED   2402462
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013826.4
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01693.20
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..576
+                     /organism="Clostridia"
+                     /db_xref="taxon:186801"
+     Protein         1..576
+                     /product="viroplasmin family protein"
+                     /calculated_mol_wt=65876
+     Region          1..203
+                     /region_name="Rnh1"
+                     /note="Ribonuclease HI-related protein, contains
+                     viroplasmin and RNaseH domains [General function
+                     prediction only]; COG3341"
+                     /db_xref="CDD:442570"
+     Region          226..294
+                     /region_name="RnlA_toxin_N"
+                     /note="RNase LS, bacterial toxin N-terminal; pfam19417"
+                     /db_xref="CDD:437249"
+     Region          320..393
+                     /region_name="DUF302_like"
+                     /note="Domains similar to DUF302 and the N-terminal
+                     domains found in some bacterial RNAses; cl21600"
+                     /db_xref="CDD:473920"
+     Region          417..541
+                     /region_name="RnlA-toxin_DBD"
+                     /note="RNase LS, bacterial toxin DBD domain; pfam19034"
+                     /db_xref="CDD:408804"
+ORIGIN      
+        1 maskyyavrk gktpgiynsw secklqvdgf sgaeyksfks eeeareyied nnseqknmnn
+       61 svqngdnlvi eayvdgsyns rtnefsygmi vlqngeelkf aekyndkela smhnvageik
+      121 gaeaamryav ensleriiiy hdyegiskwc lgewkankea traykeyydn vkklvdisfv
+      181 kvaghsnnky ndiadelakq algiieakyn iempkekgnl emgkakslyi trdidklvql
+      241 lddtaksiwp nvvgkgikev gqqkrytfev dgilslldiy qrgdgqttlr ptgsntenai
+      301 klkeavelrg ykataeqkqy tmfvgeewie ktvqylsdlc egnvetykee ghdryvfvsd
+      361 igdkltlhty snhrimvqgk plylynefls yvsyspkvev ndiikatnef idtntdvdea
+      421 rnkmsemmpm ayagnvdpvi wklfspsvtl ddvekefedy scftfpalra legylkylls
+      481 eknivideth nfgtvfnkds ndkaivipky vtaianndyv ealeeiynyf kanrhvifhv
+      541 dqilittkii edkqeaisii ndvaaliert ykkiik
+//
+

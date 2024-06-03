@@ -1,0 +1,81 @@
+LOCUS       WMK02111                 111 aa            linear   INV 16-MAY-2024
+DEFINITION  leucine-tRNA ligase, cytoplasmic-like, partial [Lucinia cadma
+            sida].
+ACCESSION   WMK02111
+VERSION     WMK02111.1
+DBLINK      BioProject: PRJNA714105
+            BioSample: SAMN18587739
+DBSOURCE    accession OL178132.1
+KEYWORDS    .
+SOURCE      Lucinia cadma sida
+  ORGANISM  Lucinia cadma sida
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Papilionoidea; Nymphalidae; Biblidinae; Epiphilini;
+            Lucinia.
+REFERENCE   1  (residues 1 to 111)
+  AUTHORS   Kawahara,A.Y., Storer,C., Carvalho,A.P.S., Plotkin,D.M.,
+            Condamine,F., Braga,M.P., Ellis,E.A., St Laurent,R.A., Barve,V.,
+            Cai,L., Earl,C., Frandsen,P., Li,X., Owens,H.L.,
+            Valencia-Montoya,W., Aduse-Poku,K., Breinholt,J.W., Espeland,M.,
+            Toussaint,E.F.A., Dexter,K.M., Doleck,T., Markee,A., Messcher,R.,
+            Nguyen,Y.-L., Badon,J.A.T., Benitez,H.A., Braby,M.F.,
+            Buenavente,P.A.C., Chan,W.-P., Collins,S.C., Childers,R.,
+            Dankowicz,E., Eastwood,R., Fric,Z.F., Gott,R., Hall,J.P.W.,
+            Hallwachs,W., Hardy,N.B., Hawkins,R., Heath,A., Hinolan,J.D.,
+            Homziak,N.T., Hsu,Y.-F., Inayoshi,Y., Itliong,M.G.A., Janzen,D.H.,
+            Kitching,I.J., Kunte,K., Lamas,G., Landis,M.J., Larsen,E.A.,
+            Larsen,T.B., Leong,J.V., Lukhtanov,V., Maier,C.A., Martinez,J.I.,
+            Martins,D.J., Maruyama,K., Maunsell,S., Oliveira Mega,N.,
+            Monastyrskii,A., Morais,A.B.B., Muller,C.J., Naive,M.A.K.,
+            Nelson,G., Peggie,D., Piccoli Romanowski,H., Safian,S., Saito,M.,
+            Schroder,S., Shirey,V., Sourakov,A., Talavera,G., Vila,R.,
+            Vlasanek,P., Wang,H., Warren,A.D., Willmott,K.R., Yago,M., Jetz,W.,
+            Jarzyna,M., Ries,L., Guralnick,R.P., Pierce,N.E. and Lohman,D.J.
+  TITLE     Evolution and diversification dynamics of butterflies
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 111)
+  AUTHORS   Kawahara,A.Y., Storer,C., Carvalho,A.P.S., Plotkin,D.M.,
+            Condamine,F., Braga,M.P., Ellis,E.A., St Laurent,R.A., Barve,V.,
+            Cai,L., Earl,C., Frandsen,P., Li,X., Owens,H.L.,
+            Valencia-Montoya,W., Aduse-Poku,K., Breinholt,J.W., Espeland,M.,
+            Toussaint,E.F.A., Dexter,K.M., Doleck,T., Markee,A., Messcher,R.,
+            Nguyen,Y.-L., Badon,J.A.T., Benitez,H.A., Braby,M.F.,
+            Buenavente,P.A.C., Chan,W.-P., Collins,S.C., Childers,R.,
+            Dankowicz,E., Eastwood,R., Fric,Z.F., Gott,R., Hall,J.P.W.,
+            Hallwachs,W., Hardy,N.B., Hawkins,R., Heath,A., Hinolan,J.D.,
+            Homziak,N.T., Hsu,Y.-F., Inayoshi,Y., Itliong,M.G.A., Janzen,D.H.,
+            Kitching,I.J., Kunte,K., Lamas,G., Landis,M.J., Larsen,E.A.,
+            Larsen,T.B., Leong,J.V., Lukhtanov,V., Maier,C.A., Martinez,J.I.,
+            Martins,D.J., Maruyama,K., Maunsell,S., Oliveira Mega,N.,
+            Monastyrskii,A., Morais,A.B.B., Muller,C.J., Naive,M.A.K.,
+            Nelson,G., Peggie,D., Piccoli Romanowski,H., Safian,S., Saito,M.,
+            Schroder,S., Shirey,V., Sourakov,A., Talavera,G., Vila,R.,
+            Vlasanek,P., Wang,H., Warren,A.D., Willmott,K.R., Yago,M., Jetz,W.,
+            Jarzyna,M., Ries,L., Guralnick,R.P., Pierce,N.E. and Lohman,D.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-SEP-2021) Biology Department, City College of New
+            York, 160 Convent Ave., Marshak J526, New York, New York 10031, USA
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..111
+                     /organism="Lucinia cadma sida"
+                     /isolation_source="wild"
+                     /sub_species="sida"
+                     /specimen_voucher="MGCL:LEP-75448"
+                     /bio_material="LEP75448"
+                     /db_xref="taxon:2839257"
+                     /sex="female"
+                     /tissue_type="thorax"
+                     /dev_stage="adult"
+                     /country="Cuba: Pinar del Rio, Soroe Orchid Clardena"
+                     /collected_by="Lee D. Miller & Jackie Y. Miller"
+     Protein         <1..>111
+                     /product="leucine-tRNA ligase, cytoplasmic-like"
+     CDS             1..111
+                     /coded_by="OL178132.1:<1..>335"
+ORIGIN      
+        1 rypvdlrasg kdliqnhltf yiynhcaiwe keedkwpkgi ranghlmlns akmsksdgnf
+       61 ltltesiekf sadgmrltla dagdsvedan fvestadaai lrlytfiewv k
+//
+

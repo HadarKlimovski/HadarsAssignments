@@ -1,0 +1,53 @@
+LOCUS       WP_195267471             596 aa            linear   BCT 24-DEC-2023
+DEFINITION  viroplasmin family protein [Eubacterium sp.
+            1001713B170207_170306_E7].
+ACCESSION   WP_195267471
+VERSION     WP_195267471.1
+KEYWORDS    RefSeq.
+SOURCE      Eubacterium sp. 1001713B170207_170306_E7
+  ORGANISM  Eubacterium sp. 1001713B170207_170306_E7
+            Bacteria; Bacillota; Clostridia; Eubacteriales; Eubacteriaceae;
+            Eubacterium.
+REFERENCE   1  (residues 1 to 596)
+  AUTHORS   Wintermantel,W.M., Anderson,E.J. and Schoelz,J.E.
+  TITLE     Identification of domains within gene VI of cauliflower mosaic
+            virus that influence systemic infection of Nicotiana bigelovii in a
+            light-dependent manner
+  JOURNAL   Virology 196 (2), 789-798 (1993)
+   PUBMED   8372449
+REFERENCE   2  (residues 1 to 596)
+  AUTHORS   Volovitch,M., Modjtahedi,N., Chouikh,Y. and Yot,P.
+  TITLE     DNA sequence of gene VI of cauliflower mosaic virus strain PV147
+  JOURNAL   Nucleic Acids Res 18 (17), 5297 (1990)
+   PUBMED   2402462
+COMMENT     REFSEQ: This record represents a single, non-redundant, protein
+            sequence which may be annotated on many different RefSeq genomes
+            from the same, or different, species.
+            
+            ##Evidence-For-Name-Assignment-START##
+            Evidence Category  :: HMM
+            Evidence Accession :: NF013826.4
+            Evidence Source    :: EMBL-EBI
+            Source Identifier  :: PF01693.20
+            ##Evidence-For-Name-Assignment-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..596
+                     /organism="Eubacterium sp. 1001713B170207_170306_E7"
+                     /db_xref="taxon:2787097"
+     Protein         1..596
+                     /product="viroplasmin family protein"
+                     /calculated_mol_wt=68211
+ORIGIN      
+        1 mngytlrpyq kecievlpee gavlvrmatg lgktvmfsqi prrgrmlils hrkelvrqpq
+       61 kyfdcsfgie qgpehsqgee vvsasvqslv rrldqfspdd fdilvtdeah haaalsykki
+      121 fnyfkprlhv gvtatpnrgd hqrlddiyer ivfdrdlkwg ienhylsnin cyrskmtcdl
+      181 rnlrtsmgdf qindleaamt sekiiqeiad vynnmakgkt lifavsvkha eaiaeaipga
+      241 vsvtgdtedr qkiidqfqtd pecncmvncm iftegtdipn ietiivarpt qsetlytqmv
+      301 grgtrlypgk ealnlidmig vsgelnlcsa psllgislee ipenerille gdlldlpqka
+      361 lgladtplrw rdnaelvnlw aqqqkinlrn inffrmpdgg llltlpkery lipppdecgq
+      421 vlcgkkrvsf qeaidslhrc lineyskdea iwnqkkvnaw gkapasekqi kwikknypef
+      481 dtkeltkaqa ssilnrifsq kssiktwdnp dyrkaeikik tetisqtrdf fvvfegrqrg
+      541 vfrdwescma qikgyqnaly rrftskeaad qalkkyrvnk rttrqvhmdn tdflwk
+//
+
