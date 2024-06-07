@@ -1,2 +1,0 @@
-# Requirements for Number Guessing Game
-# No external packages required. Uses only standard Python libraries: tkinter, random, and messagebox.
